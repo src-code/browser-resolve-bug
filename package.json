@@ -1,0 +1,12 @@
+{
+  "name": "browser-resolve-bug",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Example of browser-resolve bug",
+  "author": "Steve Carlson",
+  "codexjs": {},
+  "dependencies": {
+    "asap": "2.0.3",
+    "browser-resolve": "~1.9.1"
+  }
+}
